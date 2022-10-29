@@ -1,0 +1,16 @@
+# ninja log v5
+2136	2409	1664606238603740901	gray_scale	a3467787a15f61a2
+1	1029	1667067375625403750	lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	5699f23b7b35470d
+1	1257	1667067375853403834	lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	96254d10adb89c86
+1	2011	1667067376605404115	lib/googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	70ff8d116b14a9c2
+0	2656	1667067377249404357	CMakeFiles/servidor.dir/main.cpp.o	7899d0ba96b3dd66
+1	3934	1667067378521404837	lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	166f96314de8ba84
+3934	5556	1667067380149405456	lib/libgtest.a	6802aad170ccebec
+5557	5589	1667067380181405469	lib/libgtest_main.a	885d1b730798b43d
+5556	5606	1667067380201405476	lib/libgmock.a	3bac815e00933bc6
+5606	5630	1667067380225405486	lib/libgmock_main.a	bbde190806803d07
+5630	6265	1667067380861405730	servidor	52c3123e67b18edc
+1	1705	1667067409529417628	CMakeFiles/servidor.dir/main.cpp.o	7899d0ba96b3dd66
+1705	1901	1667067409721417713	servidor	52c3123e67b18edc
+0	1674	1667067465049445195	CMakeFiles/servidor.dir/main.cpp.o	7899d0ba96b3dd66
+1674	1840	1667067465213445286	servidor	52c3123e67b18edc
