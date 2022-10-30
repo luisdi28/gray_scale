@@ -8,10 +8,12 @@ class Server{
 public:
 
     int método() {
-        String file_name = "/home/luis/CLionProjects/Proyecto 1 - Datos II/gray_scale/tst/cuadras.jpg";//all these three strings are part of CV and not the C++ library
+        String file_name = "/home/luis/CLionProjects/Proyecto 1 - Datos II/gray_scale/tst/cuadras.jpg";
+        //Todos estos 3 strings son parte de CV y no de la biblioteca de C++
         String window_original = "original_image";
         String window_gray = "gray_image";
-        Mat img = imread(file_name);//It returns a matrix object
+        Mat img = imread(file_name);
+        //Esto retorna un objeto de tipo matriz
         Mat graymat;
         cvtColor(img, graymat, COLOR_BGR2GRAY);
         namedWindow(window_original, WINDOW_AUTOSIZE);
